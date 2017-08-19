@@ -2,9 +2,9 @@
 /**
  * Konfigurationsdatei
  * 
- * @author		Philipp Bornemann
+ * @author	Philipp Bornemann
  * @copyright	2017 HontarSoftware
- * @version		1.0
+ * @version	1.0
  */
 
 $hf_version = '1.0.0 Beta 1';
